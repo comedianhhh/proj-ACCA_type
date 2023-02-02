@@ -1,0 +1,200 @@
+
+common.png
+size: 2957,2211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Common/Arm_L_Common
+  rotate: true
+  xy: 2, 1625
+  size: 326, 874
+  orig: 335, 874
+  offset: 0, 0
+  index: -1
+Common/Arm_R_Common
+  rotate: true
+  xy: 1038, 895
+  size: 505, 516
+  orig: 505, 516
+  offset: 0, 0
+  index: -1
+Common/Body_Common
+  rotate: true
+  xy: 838, 140
+  size: 603, 834
+  orig: 603, 834
+  offset: 0, 0
+  index: -1
+Common/Ear_L_Common
+  rotate: true
+  xy: 347, 1970
+  size: 239, 280
+  orig: 241, 282
+  offset: 1, 1
+  index: -1
+Common/Ear_R_Common
+  rotate: false
+  xy: 629, 1953
+  size: 260, 256
+  orig: 262, 258
+  offset: 1, 1
+  index: -1
+Common/Face_Common
+  rotate: false
+  xy: 878, 1448
+  size: 517, 470
+  orig: 520, 473
+  offset: 2, 1
+  index: -1
+Rain/Face_Rain
+  rotate: false
+  xy: 878, 1448
+  size: 517, 470
+  orig: 520, 473
+  offset: 2, 1
+  index: -1
+Common/Leg_L_Common
+  rotate: false
+  xy: 2437, 1301
+  size: 518, 485
+  orig: 518, 485
+  offset: 0, 0
+  index: -1
+Common/Leg_R_Common
+  rotate: false
+  xy: 1397, 1402
+  size: 518, 484
+  orig: 518, 484
+  offset: 0, 0
+  index: -1
+Common/Satire_Common
+  rotate: false
+  xy: 1556, 745
+  size: 891, 554
+  orig: 893, 556
+  offset: 1, 1
+  index: -1
+Rain/Satire_Rain
+  rotate: false
+  xy: 1556, 745
+  size: 891, 554
+  orig: 893, 556
+  offset: 1, 1
+  index: -1
+Common/Tail_Common
+  rotate: false
+  xy: 1674, 2
+  size: 756, 741
+  orig: 756, 741
+  offset: 0, 0
+  index: -1
+Rain/Arm_L_Rain
+  rotate: true
+  xy: 1509, 1888
+  size: 321, 742
+  orig: 324, 742
+  offset: 0, 0
+  index: -1
+Rain/Arm_R_Rain
+  rotate: true
+  xy: 522, 943
+  size: 503, 514
+  orig: 505, 516
+  offset: 1, 1
+  index: -1
+Rain/Body_Rain
+  rotate: true
+  xy: 2, 339
+  size: 602, 834
+  orig: 603, 834
+  offset: 0, 0
+  index: -1
+Rain/Ear_R_Rain
+  rotate: false
+  xy: 891, 1953
+  size: 266, 256
+  orig: 268, 258
+  offset: 1, 1
+  index: -1
+Rain/Leg_L_Rain
+  rotate: false
+  xy: 2, 1138
+  size: 518, 485
+  orig: 518, 485
+  offset: 0, 0
+  index: -1
+Rain/Leg_R_Rain
+  rotate: false
+  xy: 1917, 1302
+  size: 518, 484
+  orig: 518, 484
+  offset: 0, 0
+  index: -1
+Rain/Rop_L_Rain
+  rotate: true
+  xy: 1159, 1920
+  size: 289, 348
+  orig: 293, 350
+  offset: 1, 1
+  index: -1
+Rain/Rop_R_Rain
+  rotate: true
+  xy: 2, 2158
+  size: 51, 343
+  orig: 53, 345
+  offset: 1, 1
+  index: -1
+Rain/Shadow_Rain
+  rotate: false
+  xy: 2253, 1788
+  size: 645, 421
+  orig: 647, 423
+  offset: 1, 1
+  index: -1
+
+common2.png
+size: 1794,2165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Common/Head_Common
+  rotate: true
+  xy: 883, 1281
+  size: 882, 909
+  orig: 882, 909
+  offset: 0, 0
+  index: -1
+Rain/Head_Rain
+  rotate: false
+  xy: 2, 1358
+  size: 879, 805
+  orig: 882, 807
+  offset: 1, 1
+  index: -1
+Rain/Raincoat_Rain
+  rotate: false
+  xy: 2, 2
+  size: 1315, 1277
+  orig: 1319, 1279
+  offset: 1, 1
+  index: -1
+
+common3.png
+size: 2944,1914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Common/board_Common
+  rotate: false
+  xy: 2, 2
+  size: 2940, 1910
+  orig: 2948, 1922
+  offset: 7, 1
+  index: -1
+Rain/board_Rain
+  rotate: false
+  xy: 2, 2
+  size: 2940, 1910
+  orig: 2948, 1922
+  offset: 7, 1
+  index: -1

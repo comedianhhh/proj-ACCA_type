@@ -1,0 +1,69 @@
+
+acca角色设计.png
+size: 1912,1178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Vegetable/Body_Vegetable
+  rotate: false
+  xy: 2, 45
+  size: 1025, 1131
+  orig: 1025, 1136
+  offset: 0, 0
+  index: -1
+Back_Vegetable/Cockscomb_Vegetable
+  rotate: false
+  xy: 1796, 222
+  size: 114, 193
+  orig: 114, 195
+  offset: 0, 0
+  index: -1
+Back_Vegetable/Hand_L_Vegetable
+  rotate: false
+  xy: 1029, 398
+  size: 394, 778
+  orig: 394, 778
+  offset: 0, 0
+  index: -1
+Back_Vegetable/Hand_R_Vegetable
+  rotate: true
+  xy: 1029, 2
+  size: 394, 765
+  orig: 394, 765
+  offset: 0, 0
+  index: -1
+Back_Vegetable/Leg-R_Vegetable
+  rotate: false
+  xy: 1425, 795
+  size: 251, 381
+  orig: 251, 382
+  offset: 0, 1
+  index: -1
+Back_Vegetable/Leg_L_Vegetable
+  rotate: false
+  xy: 1425, 417
+  size: 251, 376
+  orig: 251, 377
+  offset: 0, 1
+  index: -1
+Back_Vegetable/Tail_Vegetable
+  rotate: false
+  xy: 1678, 857
+  size: 203, 319
+  orig: 203, 319
+  offset: 0, 0
+  index: -1
+Back_Vegetable/Thumb_L_Vegetable
+  rotate: false
+  xy: 1678, 637
+  size: 216, 218
+  orig: 219, 222
+  offset: 2, 2
+  index: -1
+Back_Vegetable/Thumb_R_Vegetable
+  rotate: false
+  xy: 1678, 417
+  size: 216, 218
+  orig: 219, 222
+  offset: 1, 2
+  index: -1

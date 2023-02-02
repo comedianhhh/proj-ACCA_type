@@ -1,0 +1,76 @@
+
+pepper.png
+size: 1868,1421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Pepper/Body_Pepper
+  rotate: true
+  xy: 2, 442
+  size: 977, 969
+  orig: 977, 1118
+  offset: 0, 30
+  index: -1
+Back_Pepper/Cockscomb_Pepper
+  rotate: false
+  xy: 990, 17
+  size: 220, 283
+  orig: 220, 283
+  offset: 0, 0
+  index: -1
+Back_Pepper/Hair_L_Pepper
+  rotate: false
+  xy: 1212, 59
+  size: 230, 241
+  orig: 232, 243
+  offset: 1, 1
+  index: -1
+Back_Pepper/Hair_R_Pepper
+  rotate: false
+  xy: 1444, 59
+  size: 230, 241
+  orig: 232, 243
+  offset: 1, 1
+  index: -1
+Back_Pepper/Hand_L_Pepper
+  rotate: true
+  xy: 990, 302
+  size: 560, 876
+  orig: 630, 876
+  offset: 70, 0
+  index: -1
+Back_Pepper/Hand_R_Pepper
+  rotate: true
+  xy: 973, 864
+  size: 555, 889
+  orig: 630, 889
+  offset: 0, 0
+  index: -1
+Back_Pepper/Leg_L_Pepper
+  rotate: true
+  xy: 2, 136
+  size: 304, 500
+  orig: 387, 528
+  offset: 33, 28
+  index: -1
+Back_Pepper/Leg_R_Pepper
+  rotate: true
+  xy: 504, 132
+  size: 308, 484
+  orig: 331, 505
+  offset: 0, 21
+  index: -1
+Back_Pepper/Pepper_L_Pepper
+  rotate: false
+  xy: 2, 2
+  size: 178, 132
+  orig: 180, 134
+  offset: 1, 1
+  index: -1
+Back_Pepper/Pepper_R_Pepper
+  rotate: false
+  xy: 182, 2
+  size: 178, 132
+  orig: 180, 134
+  offset: 1, 1
+  index: -1

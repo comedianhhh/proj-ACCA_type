@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Building
+  - Dash
+  - Ghost
+  - Road
+  - Area
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - MiniMapIcon
+  - Road
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3554534813
+    locked: 0
+  - name: Basket
+    uniqueID: 323840549
+    locked: 0
+  - name: BasketBall
+    uniqueID: 2864146199
+    locked: 0
+  - name: Chick
+    uniqueID: 2595403865
+    locked: 0
+  - name: NPC
+    uniqueID: 4136076145
+    locked: 0
+  - name: Effect
+    uniqueID: 2433518117
+    locked: 0
+  - name: UI
+    uniqueID: 3069703779
+    locked: 0

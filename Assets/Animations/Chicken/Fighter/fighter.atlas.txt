@@ -1,0 +1,62 @@
+
+fighter.png
+size: 1508,1585
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Fighter/Body_Fighter
+  rotate: true
+  xy: 2, 582
+  size: 1001, 821
+  orig: 1001, 821
+  offset: 0, 0
+  index: -1
+Back_Fighter/Hair_Fighter
+  rotate: false
+  xy: 1195, 216
+  size: 303, 205
+  orig: 303, 209
+  offset: 0, 4
+  index: -1
+Back_Fighter/Hand_L_Fighter
+  rotate: true
+  xy: 2, 2
+  size: 578, 869
+  orig: 720, 870
+  offset: 0, 0
+  index: -1
+Back_Fighter/Hand_R_Fighter
+  rotate: false
+  xy: 825, 735
+  size: 582, 848
+  orig: 695, 861
+  offset: 113, 13
+  index: -1
+Back_Fighter/Leg_L_Fighter
+  rotate: true
+  xy: 873, 417
+  size: 316, 320
+  orig: 316, 329
+  offset: 0, 9
+  index: -1
+Back_Fighter/Leg_R_Fighter
+  rotate: true
+  xy: 1195, 423
+  size: 310, 311
+  orig: 310, 318
+  offset: 0, 7
+  index: -1
+Back_Fighter/Thumb_L_Fighter
+  rotate: false
+  xy: 873, 213
+  size: 239, 202
+  orig: 242, 204
+  offset: 1, 1
+  index: -1
+Back_Fighter/Thumb_R_Fighter
+  rotate: false
+  xy: 1114, 14
+  size: 214, 200
+  orig: 242, 204
+  offset: 28, 0
+  index: -1

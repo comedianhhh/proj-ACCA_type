@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4a641052b0b1f2d4bac9642f051a361b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gumzilla
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 255a47abe575eeb4ca341ada146d4ae6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

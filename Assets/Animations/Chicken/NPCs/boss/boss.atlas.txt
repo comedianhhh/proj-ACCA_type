@@ -1,0 +1,186 @@
+
+boss2.png
+size: 1992,1742
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Thunder/Ear_Thunder
+  rotate: true
+  xy: 2, 1622
+  size: 118, 220
+  orig: 121, 223
+  offset: 2, 1
+  index: -1
+Thunder/LowerArm_L_Thunder
+  rotate: true
+  xy: 450, 1428
+  size: 312, 531
+  orig: 312, 532
+  offset: 0, 1
+  index: -1
+Thunder/LowerArm_R_Thunder
+  rotate: true
+  xy: 656, 552
+  size: 460, 521
+  orig: 461, 522
+  offset: 0, 0
+  index: -1
+Thunder/LowerLeg_L_Thunder
+  rotate: false
+  xy: 2, 161
+  size: 465, 462
+  orig: 468, 464
+  offset: 2, 1
+  index: -1
+Thunder/LowerLeg_R_Thunder
+  rotate: true
+  xy: 1387, 977
+  size: 411, 564
+  orig: 415, 566
+  offset: 2, 1
+  index: -1
+Thunder/UpperArm_L_Thunder
+  rotate: true
+  xy: 907, 1014
+  size: 374, 478
+  orig: 376, 480
+  offset: 1, 1
+  index: -1
+Thunder/UpperArm_R_Thunder
+  rotate: true
+  xy: 1077, 2
+  size: 511, 819
+  orig: 513, 824
+  offset: 1, 2
+  index: -1
+Thunder/UpperLeg_L_Thunder
+  rotate: false
+  xy: 1179, 515
+  size: 465, 460
+  orig: 467, 462
+  offset: 1, 1
+  index: -1
+Tino/Lower_Arm_L_Tino
+  rotate: true
+  xy: 2, 625
+  size: 439, 652
+  orig: 439, 652
+  offset: 0, 0
+  index: -1
+Tino/Lower_Arm_R_Tino
+  rotate: true
+  xy: 469, 72
+  size: 478, 606
+  orig: 478, 606
+  offset: 0, 0
+  index: -1
+Tino/Lower_Leg_L_Tino
+  rotate: true
+  xy: 983, 1390
+  size: 350, 503
+  orig: 352, 505
+  offset: 1, 1
+  index: -1
+Tino/Lower_Leg_R_Tino
+  rotate: true
+  xy: 1488, 1390
+  size: 350, 502
+  orig: 352, 504
+  offset: 1, 1
+  index: -1
+Tino/Upper_Leg_L_Tino
+  rotate: true
+  xy: 2, 1201
+  size: 350, 439
+  orig: 352, 441
+  offset: 1, 1
+  index: -1
+Tino/Upper_Leg_R_Tino
+  rotate: true
+  xy: 443, 1066
+  size: 360, 462
+  orig: 362, 465
+  offset: 1, 2
+  index: -1
+Tino/图层 2
+  rotate: true
+  xy: 224, 1553
+  size: 187, 224
+  orig: 189, 226
+  offset: 1, 1
+  index: -1
+
+boss1.png
+size: 1813,1955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Thunder/Head_Thunder
+  rotate: false
+  xy: 807, 2
+  size: 873, 820
+  orig: 993, 861
+  offset: 120, 41
+  index: -1
+Thunder/Tail_Thunder
+  rotate: true
+  xy: 2, 1419
+  size: 534, 762
+  orig: 534, 762
+  offset: 0, 0
+  index: -1
+Thunder/UpperLeg_R_Thunder
+  rotate: false
+  xy: 2, 880
+  size: 537, 537
+  orig: 539, 539
+  offset: 1, 1
+  index: -1
+Tino/Head_Tino
+  rotate: false
+  xy: 2, 67
+  size: 803, 800
+  orig: 803, 800
+  offset: 0, 0
+  index: -1
+Tino/Tail_Tino
+  rotate: true
+  xy: 766, 1419
+  size: 534, 762
+  orig: 534, 762
+  offset: 0, 0
+  index: -1
+Tino/Upper_Arm_L_Tino
+  rotate: true
+  xy: 541, 869
+  size: 548, 588
+  orig: 550, 590
+  offset: 1, 1
+  index: -1
+Tino/Upper_Arm_R_Tino
+  rotate: true
+  xy: 1131, 824
+  size: 593, 680
+  orig: 595, 683
+  offset: 1, 1
+  index: -1
+
+boss.png
+size: 1939,1120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Thunder/Body_Thunder
+  rotate: false
+  xy: 2, 2
+  size: 971, 1116
+  orig: 971, 1136
+  offset: 0, 19
+  index: -1
+Tino/Body_Tino
+  rotate: true
+  xy: 975, 47
+  size: 1071, 962
+  orig: 1071, 962
+  offset: 0, 0
+  index: -1
